@@ -1,9 +1,9 @@
 # Yuna: AI-Powered Social Media Agent
 
-![banner_4](https://github.com/user-attachments/assets/8bd9102e-1d91-4f92-bc3d-ac11776b8ede)
+![banner_5](https://github.com/user-attachments/assets/5cfe429f-38c8-4b48-a82d-20a968e1d5a8)
 
 
-Yuna is an AI-powered social media agent designed to autonomously engage with users on social media platforms while maintaining a consistent and engaging personality. Built with **Rust** for performance and reliability, Yuna leverages the **zerebro** framework to deliver natural and dynamic interactions.
+Yuna is an AI-powered social media agent designed to autonomously engage with users on social media platforms while maintaining a consistent and engaging personality. Built with **Rust** for performance and reliability, Yuna leverages the **Arc** framework to deliver natural and dynamic interactions.
 
 ---
 
@@ -127,7 +127,7 @@ yuna/
 
 ## Dependencies
 
-- **zerebro** - AI agent framework
+- **arc** - AI agent framework
 - **twitter-v2** - Twitter API client
 - **tokio** - Async runtime
 - **serde** - Serialization/deserialization
@@ -137,7 +137,7 @@ yuna/
 
 ## Acknowledgments
 
-- Thanks to the **zerebro** team for the AI agent framework.
+- Thanks to the **Arc** team for the AI agent framework.
 - Gratitude to contributors and maintainers of the Yuna Project.
 
 ---
